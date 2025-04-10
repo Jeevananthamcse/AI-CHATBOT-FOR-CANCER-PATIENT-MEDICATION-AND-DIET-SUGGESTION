@@ -1,0 +1,2 @@
+# AI-CHATBOT-FOR-CANCER-PATIENT-MEDICATION-AND-DIET-SUGGESTION
+Developed an AI-powered chatbot to enhance cancer patients' access to medical information using RetrievalAugmented Generation (RAG). Integrated ChromaDB for fast vector-based retrieval, LLaMA 3.1 via the Groq API for NLP, and voice recognition for multimodal interaction. The chatbot processes structured medical data (CSV), embeds phrases.
